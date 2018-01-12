@@ -12,7 +12,7 @@ Date/Time - 12/01/2018 / 12:12:00
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Players Info List</title>
+		<title>Military Unit</title>
 
 		<style type="text/css">
 
