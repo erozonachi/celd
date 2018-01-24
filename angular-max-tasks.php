@@ -1,7 +1,7 @@
 <?php
 /** 
 Author - Eneh James
-Description - Angular App to calculate the maximum number of tasks a military unit can accomplish in limited time, 'X'. Using the greedy algorithm.
+Description - Angular App to calculate the maximum number of tasks a military unit can accomplish in limited time. Using the greedy algorithm.
 Date/Time - 23/01/2018 / 21:12:00
 **/
 ?>
