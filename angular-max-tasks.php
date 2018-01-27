@@ -113,13 +113,7 @@ Date/Time - 23/01/2018 / 21:12:00
                 $scope.taskTime = [];
                 $scope.reset = function(){      //reset function loads model data with default values.
                     $scope.timeLimit = 12;
-                    $scope.taskTime[0] = 7;
-                    $scope.taskTime[1] = 6;
-                    $scope.taskTime[2] = 5;
-                    $scope.taskTime[3] = 3;
-                    $scope.taskTime[4] = 4;
-                    $scope.taskTime[5] = 2;
-                    $scope.taskTime[6] = 1;
+                    $scope.taskTime = [7,6,5,3,4,2,1];
                     $scope.result = "";
                 }
 
