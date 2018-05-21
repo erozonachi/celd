@@ -58,7 +58,7 @@ Date/Time - 12/01/2018 / 21:12:00
 		</style>
 	</head>
 	<body>
-			<span>The maximum number of tasks to be completed by the military unit, in limited time of 
-			<?php echo X . " minutes"; ?> is: </span><strong><?php echo $numberOfThings; ?></strong>
+			<span>The maximum number of tasks to would completed by the military unit, in limited time of 
+			<?php echo X . " minutes"; ?> is </span><strong><?php echo $numberOfThings; ?></strong>
 	</body>
 </html>
